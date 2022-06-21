@@ -2,11 +2,11 @@
 
 <img src= "BigEyes.png" width='300'/>
 
-DESCRIPTION
+DESCRIPTION:
 
 Using JavaScript with 'onMouseMove' event to make every mouse move make the pupils of the eyes follow.
 
-INSTRUCTIONS:
+HOW TO RUN:
 
 . Clone the repository into your local environment
 
@@ -14,7 +14,7 @@ INSTRUCTIONS:
 
 . Right click and select 'Open Default browser' to open the project in your default browser.
 
-POSSIBLE IMPROVEMENTS:
+ROADMAP FOR FUTURE IMPROVEMENTS:
 
 Make changes to color of the background and the eyes themselves.
 
