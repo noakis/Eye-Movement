@@ -6,7 +6,7 @@ DESCRIPTION
 
 Using JavaScript with 'onMouseMove' event to make every mouse move make the pupils of the eyes follow.
 
-Instructions:
+INSTRUCTIONS:
 
 . Clone the repository into your local environment
 
@@ -14,7 +14,7 @@ Instructions:
 
 . Right click and select 'Open Default browser' to open the project in your default browser.
 
-Possible Improvements:
+POSSIBLE IMPROVEMENTS:
 
 Make changes to color of the background and the eyes themselves.
 
