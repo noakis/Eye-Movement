@@ -15,6 +15,7 @@ Instructions:
 . Right click and select 'Open Default browser' to open the project in your default browser.
 
 Possible Improvements:
+
 Make changes to color of the background and the eyes themselves.
 
 See it here:
