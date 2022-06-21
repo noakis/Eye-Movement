@@ -19,3 +19,5 @@ Make changes to color of the background and the eyes themselves.
 
 See it here:
 
+
+MIT License
