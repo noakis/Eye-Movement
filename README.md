@@ -20,7 +20,7 @@ Make changes to color of the background and the eyes themselves.
 
 See it here:
 
-
+https://noakis.github.io/Eye-Movement/
 
 MIT License
 
